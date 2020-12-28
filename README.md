@@ -3,7 +3,7 @@ This Program is to Detect The Whether The cell is benign or malignant.
 There Are two Classes And the Program Apramount purpose is to predict the Class of the cell(benign or miligant).
 Here we are using the **Logistic Regression** To predict the result
 
-### Attribute Information:
+#### Attribute Information:
 
 1. Sample code number: id number
 2. Clump Thickness: 1 - 10
