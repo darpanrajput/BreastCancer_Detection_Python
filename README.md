@@ -16,6 +16,6 @@ Here we are using the **Logistic Regression** To predict the result
 9. Normal Nucleoli: 1 - 10
 10. Mitoses: 1 - 10
 11. Class: (2 for benign, 4 for malignant)
-The Open Source Data Can Be Downloaded From. [UCI ML REPO]("https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(original)"). 
+The Open Source Data Can Be Downloaded From [UCI ML REPO](https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(original) "LINK"). 
 
 ![Philadelphia's Magic Gardens. This place was so cool!](https://raw.githubusercontent.com/darpanrajput/BreastCancer_Detection_Python/master/SS.PNG)
