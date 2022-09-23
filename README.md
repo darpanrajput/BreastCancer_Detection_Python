@@ -1,6 +1,6 @@
 # BreastCancer Detection Python
 This Program is to Detect The Whether The cell is benign or malignant.
-There Are two Classes And the Program Apramount purpose is to predict the Class of the cell(benign or miligant).
+There Are two types of cells i.e benign and miligant And the Program's pramount purpose is to predict the Class of the cell(benign or miligant).
 Here we are using the **Logistic Regression** To predict the result
 
 #### Attribute Information:
